@@ -73,14 +73,14 @@ Each folder contains a small, focused project for learning one concept before ap
 
 # 🚨 4. Exception Handling
 
-* [ ] Java Exceptions in Spring
-* [ ] Custom Exceptions
-* [ ] `@ExceptionHandler`
+* [x] Java Exceptions in Spring
+* [x] Custom Exceptions
+* [x] `@ExceptionHandler`
 * [ ] `@ControllerAdvice`
-* [ ] `@RestControllerAdvice`
-* [ ] Global Exception Handling
-* [ ] Custom Error Responses
-* [ ] HTTP Error Status Codes
+* [x] `@RestControllerAdvice`
+* [x] Global Exception Handling
+* [x] Custom Error Responses
+* [x] HTTP Error Status Codes
 
 ---
 
