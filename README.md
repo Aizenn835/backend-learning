@@ -10,7 +10,7 @@ Each folder contains a small, focused project for learning one concept before ap
 
 * [ ] Spring Boot project structure
 * [ ] Maven
-* [ ] Dependency Injection
+* [x] Dependency Injection
 * [ ] IoC (Inversion of Control)
 * [ ] Beans
 * [ ] Component Scanning
