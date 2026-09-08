@@ -34,8 +34,8 @@ Each folder contains a small, focused project for learning one concept before ap
 * [ ] Request / Response
 * [ ] HTTP Headers
 * [ ] HTTP Status Codes
-* [ ] GET
-* [ ] POST
+* [x] GET
+* [x] POST
 * [ ] PUT
 * [ ] PATCH
 * [ ] DELETE
